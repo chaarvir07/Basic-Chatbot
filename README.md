@@ -1,4 +1,4 @@
-# Basic Chatbot 🤖
+# Basic Chatbot 
 
 ## Description
 This is a simple rule-based chatbot developed using Python.
